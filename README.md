@@ -66,12 +66,12 @@ This is a simple Question Answer App built using ASP.NET Core MVC. The applicati
 
 ## Screenshots
 
-- ![Home Page](Images/Screenshot_1.png)
-- ![List of Questions](Images/Screenshot_2.png)
-- ![Question Details](Images/Screenshot_3.png)
-- ![Search Functionality](Images/Screenshot_4.png)
-- ![User Registration](Images/Screenshot_5.png)
-- ![Create a New Question](Images/Screenshot_6.png)
+<img src="Images/Screenshot_1.png" width="600" alt="Home Page">
+<img src="Images/Screenshot_2.png" width="600" alt="List of Questions">
+<img src="Images/Screenshot_3.png" width="600" alt="Question Details">
+<img src="Images/Screenshot_4.png" width="600" alt="Search Functionality">
+<img src="Images/Screenshot_5.png" width="600" alt="User Registration">
+<img src="Images/Screenshot_6.png" width="600" alt="Create a New Question">
 
 
 ## License
