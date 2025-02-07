@@ -72,7 +72,7 @@ This is a simple Question Answer App built using ASP.NET Core MVC. The applicati
 <img src="Images/Screenshot_4.png" width="600" alt="Search Functionality">
 <img src="Images/Screenshot_5.png" height="400" alt="User Registration">
 <img src="Images/Screenshot_6.png" height="400" alt="Create a New Question">
-<img src="Images/Screenshot_7.png" height="400" alt="Create a New Question">
+<img src="Images/Screenshot_7.png" width="600" alt="Create a New Question">
 
 
 
