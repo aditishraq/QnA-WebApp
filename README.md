@@ -64,9 +64,14 @@ This is a simple Question Answer App built using ASP.NET Core MVC. The applicati
 
 ## Screenshots
 
-- **Home Page**
-- **Create Joke**
-- **Search Results**
+## Screenshots
+
+- ![Home Page](Images/Screenshot_1.png)
+- ![List of Questions](Images/Screenshot_2.png)
+- ![Question Details](Images/Screenshot_3.png)
+- ![Search Functionality](Images/Screenshot_4.png)
+- ![User Registration](Images/Screenshot_5.png)
+- ![Create a New Question](Images/Screenshot_6.png)
 
 
 ## License
