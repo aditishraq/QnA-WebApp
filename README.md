@@ -76,11 +76,6 @@ This is a simple Question Answer App built using ASP.NET Core MVC. The applicati
 
 
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Microsoft Docs for ASP.NET Core documentation.
