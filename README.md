@@ -56,7 +56,7 @@ This is a simple Question Answer App built using ASP.NET Core MVC. The applicati
 
 ## Usage
 
-- **Home Page**: Displays a list of jokes.
+- **Home Page**: Displays a list of Questions.
 - **Create Question and Answer**: Log in to create a Question and Answer.
 - **Edit/Delete Question and Answer**: Log in to edit or delete existing Question and Answer.
 - **Search**: Use the search bar to find Questions and Answers by keyword.
