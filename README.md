@@ -62,7 +62,7 @@ This is a simple Question Answer App built using ASP.NET Core MVC. The applicati
 - **Search**: Use the search bar to find Questions and Answers by keyword.
 - **User Authentication**: Register and log in to access restricted features.
 
-## Screenshots
+
 
 ## Screenshots
 
